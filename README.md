@@ -21,4 +21,4 @@
 ## 📫 Connect with Me
 - ##### Resume : https://drive.google.com/file/d/1lWIGd95JMq6nQmjIyHz8n3ufhtMUeiMC/view?usp=drivesdk
 - ##### LinkedIn : https://www.linkedin.com/in/shivaranjan-s-g/
-##### "Thanks for visiting my GitHub profile! Dive into my repositories, and reach out if you’d like to collaborate or talk tech."
+##### "Thanks for visiting my GitHub profile! Dive into my repositories, and reach out if you’d like to collaborate."
