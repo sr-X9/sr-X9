@@ -1,5 +1,5 @@
 ## Yo!, I'm Shivaranjan S G👋
-##### Welcome to my GitHub profile! I'm a passionate data analyst with a strong interest in leveraging data to drive insights and support decision-making. Proficient in tools and languages like Python, SQL, and various data visualization libraries, I enjoy uncovering trends and patterns to help organizations make informed choices.
+##### Welcome to my GitHub profile! I'm a passionate data analyst with a strong interest in leveraging data to drive insights and support decision-making. Proficient in tools and languages like Python, SQL, and various data visualization libraries.
 ## About Me
 - ##### 🌱 I’m currently learning Data visualization
 - ##### 👯 I’m looking to collaborate on various data analysis projects to enhance my skills and explore new methodologies
