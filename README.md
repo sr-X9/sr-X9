@@ -19,6 +19,6 @@
      - ###### MySQL Workbench
      - ###### Visual Studio Code, Jupyter Notebook, Pycharm
 ## 📫 Connect with Me
-- ##### Resume : https://drive.google.com/file/d/1lWIGd95JMq6nQmjIyHz8n3ufhtMUeiMC/view?usp=drivesdk
+- ##### Resume : https://drive.google.com/file/d/1P60gIAu3lYECla6J2wt_1WwM8YBg3me9/view?usp=sharing
 - ##### LinkedIn : https://www.linkedin.com/in/shivaranjan-s-g/
 ##### Thanks for visiting my GitHub profile! Dive into my repositories, and reach out if you’d like to collaborate.
