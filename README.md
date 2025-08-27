@@ -21,7 +21,7 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/shivaranjan-s-g/)  
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:2003shivaranjan@gmail.com)  
-[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing)  
+[<img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="30"/>](https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/Shivaranjan/)
 
 
