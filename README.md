@@ -17,18 +17,12 @@
 ## 📫 Connect with Me  
 ## 📫 Connect with Me  
 
-<a href="https://www.linkedin.com/in/shivaranjan-s-g/" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-</a>
-<a href="mailto:2003shivaranjan@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
-</a>
-<a href="https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30" height="30"/>
-</a>
-<a href="https://leetcode.com/u/Shivaranjan/" target="_blank" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30"/>
-</a>
+## 📫 Connect with Me  
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/shivaranjan-s-g/)  
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:2003shivaranjan@gmail.com)  
+[<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30"/>](https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>](https://leetcode.com/u/Shivaranjan/)
 
 
 ##### Thanks for visiting my GitHub profile! Dive into my repositories, and reach out if you’d like to collaborate.
