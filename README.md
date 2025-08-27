@@ -16,7 +16,7 @@
      - ###### 🐧 Linux Commands | 🪟 Windows Security Logs
 ## 📫 Connect with Me  
 <a href="https://www.linkedin.com/in/shivaranjan-s-g/" target="_blank">
-  <img src="https://img.icons8.com/fluency/30/linkedin.png"/>
+  <img src="https://share.google/images/nXjSvs6YSv2witprK"/>
 </a>
 <a href="mailto:2003shivaranjan@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluency/30/gmail.png"/>
