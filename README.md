@@ -1,6 +1,6 @@
-<h1 align="center">Yo! 👋, I'm Shivaranjan</h1>
+<h1 align="center">Yo! I'm Shivaranjan 👋,</h1>
 
-<h3 align="center">An aspiring SOC Analyst passionate about cybersecurity</h3>
+<h3 align="center">Aspiring SOC Analyst | Cybersecurity Enthusiast </h3>
 
 ## About Me
 - ##### 🌱 I’m currently learning Defensive Security techniques, focusing on threat detection, incident response, and SOC automation.
