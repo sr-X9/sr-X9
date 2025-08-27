@@ -15,17 +15,20 @@
      - ###### 🌍 TCP/IP | 🔢 Subnetting | 🔥 Firewalls | 👀 IDS/IPS concepts
      - ###### 🐧 Linux Commands | 🪟 Windows Security Logs
 ## 📫 Connect with Me  
-<a href="https://www.linkedin.com/in/shivaranjan-s-g/" target="_blank">
-  <img src="https://share.google/images/nXjSvs6YSv2witprK"/>
+## 📫 Connect with Me  
+
+<a href="https://www.linkedin.com/in/shivaranjan-s-g/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-<a href="mailto:2003shivaranjan@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/30/gmail.png"/>
+<a href="mailto:2003shivaranjan@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
 </a>
-<a href="https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing" target="_blank">
-  <img src="https://img.icons8.com/fluency/30/resume.png"/>
+<a href="https://drive.google.com/file/d/1TdFknyttLt9FK7F_YqgOWzb8ZDQTPYS6/view?usp=sharing" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="30" height="30"/>
 </a>
-<a href="https://leetcode.com/u/Shivaranjan/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/leetcode.png"/>
+<a href="https://leetcode.com/u/Shivaranjan/" target="_blank" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30"/>
 </a>
+
 
 ##### Thanks for visiting my GitHub profile! Dive into my repositories, and reach out if you’d like to collaborate.
