@@ -1,4 +1,5 @@
 <h1 align="center">Yo! 👋, I'm Shivaranjan</h1>
+
 ##### Welcome to my GitHub profile! I’m a passionate SOC Analyst dedicated to strengthening security operations by combining cybersecurity expertise with data-driven decision-making.My goal is to detect, analyze, and mitigate threats while also building tools that improve efficiency and automation in SOC environments
 ## About Me
 - ##### 🌱 I’m currently learning Defensive Security techniques, focusing on threat detection, incident response, and SOC automation.
