@@ -13,10 +13,7 @@
      - ###### 🔐 SIEM concepts | 🏴‍☠️ OWASP Top 10
 - #### Networking and OS :
      - ###### 🌍 TCP/IP | 🔢 Subnetting | 🔥 Firewalls | 👀 IDS/IPS concepts
-     - ###### 🐧 Linux Commands | 🪟 Windows Security Logs
-## 📫 Connect with Me  
-## 📫 Connect with Me  
-
+     - ###### 🐧 Linux Commands | 🪟 Windows Security Logs 
 ## 📫 Connect with Me  
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/shivaranjan-s-g/)  
