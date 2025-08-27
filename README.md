@@ -5,7 +5,6 @@
 ## About Me
 - ##### 🌱 I’m currently learning Defensive Security techniques, focusing on threat detection, incident response, and SOC automation.
 - ##### 👯 I’m looking to collaborate on various CyberSecurity projects to enhance my skills and explore new methodologies
-- ##### 📫 How to reach me : 2003shivaranjan@gmail.com
 - ##### ⚡ Fun fact : I love solving puzzles and challenges that require analytical thinking.
 ## Skills
 - #### Languages :
